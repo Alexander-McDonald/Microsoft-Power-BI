@@ -1,2 +1,2 @@
-# Microsoft-Power-BI
-By using data from a survey of different jobs in different data fields I cleaned the data and created visual representations of the data.
+# Data Careers Insights: An Interactive Power BI
+This project explores survey data collected from professionals across data-related fields. After cleaning and preparing the dataset for analysis, I developed an interactive dashboard in Microsoft Power BI to uncover trends in salary, experience, gender distribution, and job roles. The visualizations allow users to compare career paths, identify compensation patterns, and better understand how demographics and experience influence outcomes within the data industry. This project highlights my ability to transform raw survey data into meaningful insights through data cleaning, analysis, and visualization.
